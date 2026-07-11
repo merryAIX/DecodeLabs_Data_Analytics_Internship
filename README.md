@@ -12,7 +12,7 @@ This repository contains the projects and technical assignments completed during
 * Deliverables: Cleaned dataset and a formal Change Log documenting all transformations.
 
 ### Project 2: Exploratory Data Analysis (EDA)
-* Status: In Progress
-* Description: Conducting an initial investigation of the dataset to discover patterns, identify outliers, and establish relationships using summary statistics.
-* Key Techniques: Descriptive statistics, outlier detection (IQR/Z-Score), and correlation analysis.
-
+* Status: Completed
+* Description: Conducted an exploratory investigation of the dataset using Power BI to uncover sales trends, evaluate product performance, and identify anomalies.
+* Key Techniques: Descriptive statistics, visual diagnostics (scatter, line, and bar charts), and trend/outlier detection.
+* Deliverables: Executive Summary Report (PDF) detailing key findings and actionable business recommendations.
